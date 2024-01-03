@@ -5,7 +5,7 @@
 Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
 ## Topics covered in the course
-* Section 1 - Introduction to Microservices Architecture
+* Section 1 - Introduction to Microservices Architecture.
 * Section 2- Building microservices using Spring Boot
 * Section 3 - How do we right size our microservices & identify boundaries
 * Section 4 - Handle deployment, portability &  scalability of microservices using Docker
